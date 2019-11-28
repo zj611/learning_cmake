@@ -1,0 +1,14 @@
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/install/strip.dir
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/install/local.dir
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/edit_cache.dir
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/rebuild_cache.dir
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/list_install_components.dir
+/home/zj/a/cmake/cmake/t2/build/CMakeFiles/install.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/install/strip.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/install/local.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/install.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/list_install_components.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/hello.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/hello_static.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/edit_cache.dir
+/home/zj/a/cmake/cmake/t2/build/lib/CMakeFiles/rebuild_cache.dir
